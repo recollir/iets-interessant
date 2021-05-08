@@ -1,4 +1,4 @@
-# bocatas
+# Entrepans
 
 > Interesting random stuff I find on the Internet.
 
