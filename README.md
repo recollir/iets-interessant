@@ -3,6 +3,7 @@
 > Interesting random stuff I find on the Internet.
 
 ### 2021-05-09
+- [Interpreters and Compilers](https://twitter.com/ChrisGSeaton/status/1391475489777373186) - tweet with links to books on learning about interpreters and compilers
 - [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html) - On debugging cache and OOM problems in the Linux kernel
 
 ### 2021-05-08
