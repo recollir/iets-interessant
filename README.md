@@ -2,6 +2,9 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-05-11
+- [Kubernetes events and Loki](https://grafana.com/blog/2019/08/21/how-grafana-labs-effectively-pairs-loki-and-kubernetes-events/) and [Routing Kubernetes Events](https://github.com/heptiolabs/eventrouter) - Persisting Kubernetes Events as logs
+
 ### 2021-05-09
 - [Interpreters and Compilers](https://twitter.com/ChrisGSeaton/status/1391475489777373186) - tweet with links to books on learning about interpreters and compilers
 - [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html) - On debugging cache and OOM problems in the Linux kernel
