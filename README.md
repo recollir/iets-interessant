@@ -2,6 +2,9 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-05-12
+- [AirGradient](https://www.airgradient.com/diy/) - DIY airquality sensor based on Arduino
+
 ### 2021-05-11
 - [Kubernetes events and Loki](https://grafana.com/blog/2019/08/21/how-grafana-labs-effectively-pairs-loki-and-kubernetes-events/) and [Routing Kubernetes Events](https://github.com/heptiolabs/eventrouter) - Persisting Kubernetes Events as logs
 
