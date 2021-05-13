@@ -1,4 +1,4 @@
-# Entrepans
+# Iets interessant
 
 > Interesting random stuff I find on the Internet.
 
