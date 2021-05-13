@@ -3,7 +3,7 @@
 > Interesting random stuff I find on the Internet.
 
 ### 2021-05-13
-- [Lisperati1000](https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff) - small Lisp computer based on a PI with a Vorrex keyboard
+- [Lisperati1000](https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff) - small Lisp computer based on a PI with a Vortex keyboard
 - [DIY instructions for Lisperati](https://github.com/drcode/lisperati-1000-diy) - build the Lisperati yourself
 
 ### 2021-05-12
