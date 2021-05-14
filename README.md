@@ -2,6 +2,9 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-05-14
+- [Negative leap second](https://twitter.com/fanf/status/1386838657093586944) - at the end of the 2020s
+
 ### 2021-05-13
 - [Lisperati1000](https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff) - small Lisp computer based on a PI with a Vortex keyboard
 - [DIY instructions for Lisperati](https://github.com/drcode/lisperati-1000-diy) - build the Lisperati yourself
