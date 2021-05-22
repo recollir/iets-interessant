@@ -2,6 +2,9 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-05-22
+- [Kubernetes Metrics](https://sematext.com/blog/kubernetes-metrics) - interesting Kubernetes metrics to monitor
+
 ### 2021-05-14
 - [Negative leap second](https://twitter.com/fanf/status/1386838657093586944) - at the end of the 2020s
 
