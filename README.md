@@ -3,6 +3,7 @@
 > Interesting random stuff I find on the Internet.
 
 ### 2021-05-22
+- [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html) - tidbits about sqlite
 - [Kubernetes Metrics](https://sematext.com/blog/kubernetes-metrics) - interesting Kubernetes metrics to monitor
 
 ### 2021-05-14
