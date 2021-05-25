@@ -3,7 +3,7 @@
 > Interesting random stuff I find on the Internet.
 
 ### 2021-05-25
--[Keyboard Atreus](https://shop.keyboard.io/products/keyboardio-atreus) - split ortholinear keyboard
+- [Keyboard Atreus](https://shop.keyboard.io/products/keyboardio-atreus) - split ortholinear keyboard
 ### 2021-05-22
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html) - tidbits about sqlite
 - [Kubernetes Metrics](https://sematext.com/blog/kubernetes-metrics) - interesting Kubernetes metrics to monitor
