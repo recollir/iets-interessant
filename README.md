@@ -2,6 +2,8 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-06-01
+- [Dashboards and metrics](https://dmoldovan.medium.com/monitoring-how-to-build-your-monitoring-dashboards-e11f89918dd1) - structure of dashboards and metrics
 ### 2021-05-25
 - [Keyboard Atreus](https://shop.keyboard.io/products/keyboardio-atreus) - split ortholinear keyboard
 ### 2021-05-22
