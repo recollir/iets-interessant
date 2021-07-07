@@ -2,6 +2,10 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-07-07
+- [How to Set Up an SSH Jump Server](https://goteleport.com/blog/ssh-jump-server/?utm_source=changelog&utm_medium=newsletter&utm_campaign=changelog-news) - using Teleport as a jumpserver
+- [Traefik training course](https://www.thebyte.io/offers/Nj25zWBz/checkout) - learn Traefik
+
 ### 2021-06-01
 - [Dashboards and metrics](https://dmoldovan.medium.com/monitoring-how-to-build-your-monitoring-dashboards-e11f89918dd1) - structure of dashboards and metrics
 ### 2021-05-25
