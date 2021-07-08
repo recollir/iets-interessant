@@ -2,6 +2,14 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-07-08
+- [The Ultimate Guide to JSON in Go](https://qvault.io/golang/json-golang/) - doing JSON with Golang
+- [Teaching Go programs to love JSON and YAML](https://sharpend.io/blog/teaching-go-programs-to-love-json-and-yaml/) - more JSON with Golang
+- [Histogram evolution: visualize how a distribution of values changes over time](https://opstrace.com/blog/grafana-histogram-howto?utm_source=o11y.news&utm_medium=email) - how to visualize a Prometheus histogram over time in Grafana
+- [How to use Signal without giving out your phone number](https://theintercept.com/2017/09/28/signal-tutorial-second-phone-number) - signal without your real number
+- [How to create a second WhatsApp account without actual mobile number for free ](https://nerdschalk.com/create-whatsapp-account-with-fake-number/) - whatsapp without your real number
+- [How To Use Telepresence on Kubernetes for Rapid Development on MacOS](https://www.digitalocean.com/community/tutorials/how-to-use-telepresence-on-kubernetes-for-rapid-development-on-macos) - using telepresence to access your Kubernetes cluster during development 
+
 ### 2021-07-07
 - [How to Set Up an SSH Jump Server](https://goteleport.com/blog/ssh-jump-server/?utm_source=changelog&utm_medium=newsletter&utm_campaign=changelog-news) - using Teleport as a jumpserver
 - [Traefik training course](https://www.thebyte.io/offers/Nj25zWBz/checkout) - learn Traefik
