@@ -12,7 +12,7 @@
 - [How to Autoscale Kubernetes Pods with Keda - Testing with k6](https://dev.to/k6/how-to-autoscale-kubernetes-pods-with-keda-testing-with-k6-4nl9) - using Keda to autoscale and test with k6
 - [The Kubernetes Networking Guide](https://k8s.networkop.co.uk) - an overview of various Kubernetes networking components
 - [Kubernetes without kube-proxy](https://faun.pub/kubernetes-without-kube-proxy-1c5d25786e18) - replacing kube-proxy
-- [Collection of gadgets for debugging and introspecting Kubernetes applications using BPF](https://github.com/kinvolk/inspektor-gadget) - using eBPF to debug -Kubernetes  
+- [Collection of gadgets for debugging and introspecting Kubernetes applications using BPF](https://github.com/kinvolk/inspektor-gadget) - using eBPF to debug Kubernetes  
 
 ### 2021-07-07
 - [How to Set Up an SSH Jump Server](https://goteleport.com/blog/ssh-jump-server/?utm_source=changelog&utm_medium=newsletter&utm_campaign=changelog-news) - using Teleport as a jumpserver
