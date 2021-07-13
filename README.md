@@ -2,6 +2,9 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-07-13
+- [Mailbrew](https://mailbrew.com) - personal daily newsletters
+
 ### 2021-07-08
 - [The Ultimate Guide to JSON in Go](https://qvault.io/golang/json-golang/) - doing JSON with Golang
 - [Teaching Go programs to love JSON and YAML](https://sharpend.io/blog/teaching-go-programs-to-love-json-and-yaml/) - more JSON with Golang
