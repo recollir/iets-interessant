@@ -2,6 +2,8 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-07-24
+- [Learning Curve: Learning to Suffer](https://backpackinglight.com/learning-curve-learning-to-suffer/) - endurance athlete know how to suffer as it’s an intrinsic part of the sport 
 ### 2021-07-13
 - [Mailbrew](https://mailbrew.com) - personal daily newsletters
 
