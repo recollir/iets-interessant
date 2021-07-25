@@ -4,6 +4,7 @@
 
 ### 2021-07-25
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/?utm_source=123dev&utm_medium=email) - sane bash script template explained
+- [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/) - implementing a simple REST server using several different approaches
 
 ### 2021-07-24
 - [Learning Curve: Learning to Suffer](https://backpackinglight.com/learning-curve-learning-to-suffer/) - endurance athlete know how to suffer as it’s an intrinsic part of the sport
