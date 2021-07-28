@@ -4,6 +4,8 @@
 
 ### 2021-07-28
 - [Johnny Decimal](https://johnnydecimal.com) - a system to organize things/projects/information 
+- [Earthly](https://earthly.dev) - Makefile and Dockerfile had a baby
+- [How I Put My Mind Under Version Control](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5) - using Github and command-line utilities to sync and version control my Obsidian Zettelkasten
 
 ### 2021-07-26
 - [Hammerspoon](http://www.hammerspoon.org/go/) - desktop automation tool for OS X with Lua scripts
