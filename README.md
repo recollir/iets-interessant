@@ -2,6 +2,17 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-07-28
+- [Johnny Decimal](https://johnnydecimal.com) - a system to organize things/projects/information 
+
+### 2021-07-26
+- [Hammerspoon](http://www.hammerspoon.org/go/) - desktop automation tool for OS X with Lua scripts
+- [Amethyst](https://ianyh.com/amethyst/) - tiling window manager for macOS along the lines of xmonad
+- [Mental Poker](https://people.csail.mit.edu/rivest/pubs/SRA81.pdf) - can two potentially dishonest players play a fair game of poker without using any cards
+- [Mental Poker in Go](https://tpaschalis.github.io/mental-poker/) - mental poker implemented in Go
+- [It’s DNS. You know it’s DNS. But how do you prove it?](https://www.isovalent.com/blog/post/its-dns) - using Cilium and Hubble to prove it is always DNS
+- [Go client for talking to the Ikea trådfri gateway](https://github.com/eriklupander/tradfri-go) - Golang and Ikea Trådfri
+
 ### 2021-07-25
 - [Minimal safe Bash script template](https://betterdev.blog/minimal-safe-bash-script-template/?utm_source=123dev&utm_medium=email) - sane bash script template explained
 - [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/) - implementing a simple REST server using several different approaches
@@ -57,6 +68,7 @@
 
 ### 2021-05-08
 - [Swimming Timer](http://arduinoideas.blogspot.com/2013/02/swimming-timer.html) - Swimming Timer for swim meets based on an Arduino
+- [SprintTimer](https://appmaker.se/home/sprinttimer/) - using the iPhone as a timing device
 - [NoRouter](https://norouter.io) - Unprivileged instant multi-cloud networking (IP-over-Stdio. Easy multi-host & multi-cloud networking for dev environments. No root privilege is required.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - WebTTY allows you to share a terminal session from your machine using WebRTC. You can pair with a friend without setting up a proxy server, debug servers behind NATs, and more. WebTTY also works in-browser.
 - [est357/owlk8s](https://github.com/est357/owlk8s) - A K8s ClusterIP HTTP monitoring library based on eBPF
