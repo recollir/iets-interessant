@@ -2,6 +2,11 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-07-29
+- [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy) - why Feedback Rarely Does What It’s Meant To
+- [Time-weighted averages](https://blog.timescale.com/blog/what-time-weighted-averages-are-and-why-you-should-care/?) - learn how time-weighted averages are calculated and why they’re so powerful for data analysis
+
+
 ### 2021-07-28
 - [Johnny Decimal](https://johnnydecimal.com) - a system to organize things/projects/information 
 - [Earthly](https://earthly.dev) - Makefile and Dockerfile had a baby
