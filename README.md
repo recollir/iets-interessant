@@ -2,10 +2,13 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-08-01
+- [Latency SLOs Done Righ](https://www.youtube.com/watch?v=ycsc2kCaJxM) - measuring latency correctly is not easy and three practical methods how to implement effective Latency SLOs
+- [The state of the Histogram](https://www.youtube.com/watch?v=Z-5PNlv8eK0) - a survey of different available technologies to capture (latency) distributions and store them in time-series databases
+
 ### 2021-07-29
 - [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy) - why Feedback Rarely Does What It’s Meant To
-- [Time-weighted averages](https://blog.timescale.com/blog/what-time-weighted-averages-are-and-why-you-should-care/?) - learn how time-weighted averages are calculated and why they’re so powerful for data analysis
-
+- [Time-weighted averages](https://blog.timescale.com/blog/what-time-weighted-averages-are-and-why-you-should-care/?) - learn how time-weighted averages are calculated and why they’re so powerful for data analysis 
 
 ### 2021-07-28
 - [Johnny Decimal](https://johnnydecimal.com) - a system to organize things/projects/information 
