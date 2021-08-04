@@ -2,6 +2,10 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-08-04
+- [Chezmoi](https://www.chezmoi.io) - manage dotfiles across multiple diverse machines, securely
+- [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) - Patrick Winston's How to Speak talk has been an MIT tradition for over 40 years 
+
 ### 2021-08-01
 - [Latency SLOs Done Righ](https://www.youtube.com/watch?v=ycsc2kCaJxM) - measuring latency correctly is not easy and three practical methods how to implement effective Latency SLOs
 - [The state of the Histogram](https://www.youtube.com/watch?v=Z-5PNlv8eK0) - a survey of different available technologies to capture (latency) distributions and store them in time-series databases
