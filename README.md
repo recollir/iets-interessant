@@ -2,6 +2,11 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-08-08
+- [Eine Diskriminierung von Ungeimpften ist ethisch gerechtfertigt](https://www.zeit.de/gesellschaft/2021-07/corona-impfung-pflicht-ethik-massnahmen-grundrechte) - eine indirekte und sogar direkte Impfpflicht ist im Gespräch, aus ethischer Sicht spricht wenig gegen beide Varianten
+- [Build a Highly Available Kubernetes Operator Using Golang](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2) - develop a simple Kubernetes operator from scratch using client-go
+- [Learning Go by examples Series' Articles](https://dev.to/aurelievache/series/13751) - an HTTP REST API Server, a CLI app, a Bot for Discord
+
 ### 2021-08-04
 - [Chezmoi](https://www.chezmoi.io) - manage dotfiles across multiple diverse machines, securely
 - [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) - Patrick Winston's How to Speak talk has been an MIT tradition for over 40 years 
