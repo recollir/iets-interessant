@@ -6,6 +6,11 @@
 - [Eine Diskriminierung von Ungeimpften ist ethisch gerechtfertigt](https://www.zeit.de/gesellschaft/2021-07/corona-impfung-pflicht-ethik-massnahmen-grundrechte) - eine indirekte und sogar direkte Impfpflicht ist im Gespräch, aus ethischer Sicht spricht wenig gegen beide Varianten
 - [Build a Highly Available Kubernetes Operator Using Golang](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2) - develop a simple Kubernetes operator from scratch using client-go
 - [Learning Go by examples Series' Articles](https://dev.to/aurelievache/series/13751) - an HTTP REST API Server, a CLI app, a Bot for Discord
+- [Prometheus Is Not a TSDB](https://iximiuz.com/en/posts/prometheus-is-not-a-tsdb/) - Learning Prometheus series
+- [Writing Consistent Tools](https://www.netmeister.org/blog/consistent-tools.html) - be eventually consistent in writing simple tools and support the same behavioral traits
+- [Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF) - guidance describing the security challenges associated with setting up and securing a Kubernetes cluster
+- [Crafting Interpreters](http://craftinginterpreters.com) - ever wanted to make your own programming language or wondered how they are designed and built
+- [Local Development Environments](https://iximiuz.com/en/posts/how-to-setup-development-environment/?z=1) - disposable Local Development Environments with Vagrant, Docker, and Arkade
 
 ### 2021-08-04
 - [Chezmoi](https://www.chezmoi.io) - manage dotfiles across multiple diverse machines, securely
