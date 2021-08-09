@@ -7,7 +7,11 @@
 - [How to automatically release your Go binaries with GitHub Actions](https://web3.coach/golang-github-actions-release-binaries-tutorial) - releasing with GitHub Actions
 - [A guide to linting Go programs](https://freshman.tech/linting-golang/) - a comprehensive linting setup for Go programs
 - [Super-Power Memory](https://dgryski.medium.com/i-have-a-super-power-memory-50d60fe3900a) - an expanded version of a presentation on memory (brain)
-
+- [Powerful graph representations in Grafana](https://inuits.eu/blog/powerful-graph-representation-grafana/) - a conference talk
+- [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/about.html) - Kubernetes security training scenarios
+- [CKS scenarios](https://saiyampathak.gumroad.com/l/cksbook) - CKS training scenarios
+- [K8s Speed Run](https://apaarshrm39.medium.com/k8s-speed-run-how-i-aced-ck-ad-s-in-35-days-with-a-day-occasionally-night-job-fbf60d2ebe0c) - how to ace CK(AD?|S) in 35 days with a day job
+ 
 ### 2021-08-08
 - [Eine Diskriminierung von Ungeimpften ist ethisch gerechtfertigt](https://www.zeit.de/gesellschaft/2021-07/corona-impfung-pflicht-ethik-massnahmen-grundrechte) - eine indirekte und sogar direkte Impfpflicht ist im Gespräch, aus ethischer Sicht spricht wenig gegen beide Varianten
 - [Build a Highly Available Kubernetes Operator Using Golang](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2) - develop a simple Kubernetes operator from scratch using client-go
