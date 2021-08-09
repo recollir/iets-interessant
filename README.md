@@ -2,6 +2,12 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-08-09
+- [Use a Raspberry Pi 4 for Time Machine](https://saschaeggi.medium.com/use-a-raspberry-pi-4-for-time-machine-works-with-big-sur-1e66a9650789) - a Raspberry Pi as a cheap MacOS backup solution
+- [How to automatically release your Go binaries with GitHub Actions](https://web3.coach/golang-github-actions-release-binaries-tutorial) - releasing with GitHub Actions
+- [A guide to linting Go programs](https://freshman.tech/linting-golang/) - a comprehensive linting setup for Go programs
+- [Super-Power Memory](https://dgryski.medium.com/i-have-a-super-power-memory-50d60fe3900a) - an expanded version of a presentation on memory (brain)
+
 ### 2021-08-08
 - [Eine Diskriminierung von Ungeimpften ist ethisch gerechtfertigt](https://www.zeit.de/gesellschaft/2021-07/corona-impfung-pflicht-ethik-massnahmen-grundrechte) - eine indirekte und sogar direkte Impfpflicht ist im Gespräch, aus ethischer Sicht spricht wenig gegen beide Varianten
 - [Build a Highly Available Kubernetes Operator Using Golang](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2) - develop a simple Kubernetes operator from scratch using client-go
