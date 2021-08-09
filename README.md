@@ -11,6 +11,7 @@
 - [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/about.html) - Kubernetes security training scenarios
 - [CKS scenarios](https://saiyampathak.gumroad.com/l/cksbook) - CKS training scenarios
 - [K8s Speed Run](https://apaarshrm39.medium.com/k8s-speed-run-how-i-aced-ck-ad-s-in-35-days-with-a-day-occasionally-night-job-fbf60d2ebe0c) - how to ace CK(AD?|S) in 35 days with a day job
+- [Why Your YubiKey Won’t Work With AWS CLI (and the fix)](https://scalesec.com/blog/why-your-yubikey-wont-work-with-aws-cli/) - configure your Yubikey for AWS
  
 ### 2021-08-08
 - [Eine Diskriminierung von Ungeimpften ist ethisch gerechtfertigt](https://www.zeit.de/gesellschaft/2021-07/corona-impfung-pflicht-ethik-massnahmen-grundrechte) - eine indirekte und sogar direkte Impfpflicht ist im Gespräch, aus ethischer Sicht spricht wenig gegen beide Varianten
