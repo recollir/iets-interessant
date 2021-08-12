@@ -2,6 +2,9 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-08-12
+- [Overthinking](https://kerkour.com/blog/overthinking/) - on analysis paralysis
+
 ### 2021-08-09
 - [Use a Raspberry Pi 4 for Time Machine](https://saschaeggi.medium.com/use-a-raspberry-pi-4-for-time-machine-works-with-big-sur-1e66a9650789) - a Raspberry Pi as a cheap MacOS backup solution
 - [How to automatically release your Go binaries with GitHub Actions](https://web3.coach/golang-github-actions-release-binaries-tutorial) - releasing with GitHub Actions
