@@ -2,6 +2,15 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-08-22
+- [Why Hardware Matters with Bryan Cantrill](https://www.youtube.com/watch?app=desktop&v=o2GhBig0OWM) - Bryan Cantrill on why you should care about your hardware, and what Oxide is building
+- [Hardware/Software Co-design: The Coming Golden Age](https://www.youtube.com/watch?app=desktop&v=nY07zWzhyn4) - keynote by Bryan Cantrill
+- [How to Do Maths Without a Calculator](https://www.youtube.com/watch?app=desktop&v=-_-Vg_B3nzM) - quickly estimate sizes and numbers is a useful everyday application of maths
+- [Mastering the KUBECONFIG file](https://ahmet.im/blog/mastering-kubeconfig/) - there is a kubeconfig file behind every working kubectl command
+- [Writing a Technical Book](https://andregarzia.com/2021/04/writing-a-technical-book.html) - the hows and whys
+- [k6 results visualization](https://k6.io/docs/results-visualization/grafana-cloud/) - visualize your testing results with Grafana/Prometheus
+- [Learn R through examples](https://gexijin.github.io/learnR/index.html) - R examples and case studies
+
 ### 2021-08-12
 - [Overthinking](https://kerkour.com/blog/overthinking/) - on analysis paralysis
 
