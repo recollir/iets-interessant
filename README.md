@@ -2,6 +2,10 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-08-23
+- [Helix](https://helix-editor.com) - a post-modern text editor
+- [The Opinionated Guide to Setting Up a Sourcegraph Server for More Productive Advanced Code Search](https://ritza.co/showcase/opinionated-guide-to-setting-up-a-sourcegraph-server-for-more-productive-advanced-code-search.html) - a SourceGraph howto 
+
 ### 2021-08-22
 - [Why Hardware Matters with Bryan Cantrill](https://www.youtube.com/watch?app=desktop&v=o2GhBig0OWM) - Bryan Cantrill on why you should care about your hardware, and what Oxide is building
 - [Hardware/Software Co-design: The Coming Golden Age](https://www.youtube.com/watch?app=desktop&v=nY07zWzhyn4) - keynote by Bryan Cantrill
