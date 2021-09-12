@@ -3,6 +3,10 @@
 > Interesting random stuff I find on the Internet.
 
 ### 2021-08-23
+- [delta](https://github.com/dandavison/delta) - a viewer for git and diff output
+- [modern-unix](https://github.com/ibraheemdev/modern-unix) - a collection of modern/faster/saner alternatives to common unix commands
+
+### 2021-08-23
 - [Helix](https://helix-editor.com) - a post-modern text editor
 - [The Opinionated Guide to Setting Up a Sourcegraph Server for More Productive Advanced Code Search](https://ritza.co/showcase/opinionated-guide-to-setting-up-a-sourcegraph-server-for-more-productive-advanced-code-search.html) - a SourceGraph howto 
 
