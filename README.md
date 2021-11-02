@@ -2,6 +2,18 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-11-02
+
+Two month pause. Why? DNK.  
+
+- [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/) - being a OSS maintainer is hard
+- [JsPolicy](https://www.jspolicy.com) - writing k8s policies in javascript/typescript
+- [vcluster](https://www.vcluster.com) - Create fully functional virtual Kubernetes clusters inside a namespace of another k8s cluster
+- [DevSpace](https://devspace.sh) - developer tool for Kubernetes (among others replace Docker compose)
+- [How I Motivate Myself to Write](https://blog.pragmaticengineer.com/writing-motivation/) - on how to find the inspiration and motivation to write
+- [Want to Start a Startup, as a Software Engineer?](https://blog.pragmaticengineer.com/want-to-start-a-startup-sell-something-online/) - advises about doing a startup and selling online
+- [(video )Make your Go go faster!](https://www.youtube.com/watch?app=desktop&v=NS1hmEWv4Ac&feature=youtu.be) - Optimising performance through reducing memory allocations
+
 ### 2021-08-23
 - [delta](https://github.com/dandavison/delta) - a viewer for git and diff output
 - [modern-unix](https://github.com/ibraheemdev/modern-unix) - a collection of modern/faster/saner alternatives to common unix commands
