@@ -2,9 +2,16 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2021-11-03
+
+- [Staff Engineer: Leadership beyond the management track](https://staffeng.com/book) - insights on what matters at this level
+- [The First 90 days](https://www.amazon.de/gp/product/1422188612) - strategies for conquering the challenges of transitions
+- [On Writing Well - The Classic Guide to Writing Nonfiction](https://www.amazon.de/gp/product/0060891548) - a bible for a generation of writers looking for clues to clean, compelling prose
+- [Radical candor](https://www.amazon.de/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) - focus on praise but don't shy away from criticismto to help you love your work and the people you work with
+
 ### 2021-11-02
 
-Two month pause. Why? DNK.  
+Two month pause. Why? I simply forgot...  
 
 - [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/) - being a OSS maintainer is hard
 - [JsPolicy](https://www.jspolicy.com) - writing k8s policies in javascript/typescript
