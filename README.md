@@ -2,6 +2,18 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2022-04-16 
+
+Oh. Boy. There is plenty to add to this since November...
+
+- [Learn in public](https://www.swyx.io/learn-in-public/) - the fastest way to learn 
+- [SLI’s and SLO’s, how to wrap your head around it](https://avandych.medium.com/slis-and-slo-s-how-to-wrap-your-head-around-it-and-actually-use-it-to-calculate-your-availability-b09470cc498f) - explanations of what is actually SLI and SLO and how to implement and use them with Prometheus
+- [Async, remote, and flexible: How 7 engineers rethought their work calendars](https://about.sourcegraph.com/blog/remote-work-calendar/) - Remote work offers the opportunity to rethink work from first principles
+- [Fan-in and fan-out with Go](https://arschles.com/blog/fanin-fanout/) - Split some work into N pieces, do them all concurrently, and then merge all the results together 
+- [doggo](https://github.com/mr-karan/doggo) - dig in golang 
+- [octodns](https://github.com/octodns/octodns) - manage dns across multiple providers 
+- [Moving and Building Container Images, The Right Way](https://github.com/ImJasonH/ImJasonH/tree/main/articles/moving-and-building-images) - tips to handle docker images 
+
 ### 2021-11-03
 
 - [Staff Engineer: Leadership beyond the management track](https://staffeng.com/book) - insights on what matters at this level
