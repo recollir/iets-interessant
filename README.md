@@ -2,6 +2,10 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2022-04-18
+
+- [CLI: Command Line Programming with Go](https://thenewstack.io/cli-command-line-programming-with-go/) - cli arguments in go
+
 ### 2022-04-16 
 
 Oh. Boy. There is plenty to add to this since November...
