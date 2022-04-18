@@ -9,9 +9,9 @@
 - [Docs for Developers](https://link.springer.com/book/10.1007/978-1-4842-7217-6) - An Engineer’s Field Guide to Technical Writing
 - [How to pair-program remotely and not lose the will to live](https://queenofdowntime.com/blog/remote-pair-programming) - pair program with neovim and the terminal
 - [Instant terminal sharing](https://tmate.io) - share terminal via tmux
-- []() -
-- []() -
-
+- [Moving from HEY to Fastmail](https://dev.to/borama/moving-from-hey-to-fastmail-phe) - replicating Hey with Fastmail
+- [Automate Your GitHub Profile README with Go and GitHub Actions](https://dev.to/charly3pins/automate-your-github-profile-readme-with-go-and-github-actions-2lmo) - automating GH profile readme
+- [Introducing Tobs: Deploy a full observability suite for Kubernetes in two minutes](https://www.timescale.com/blog/introducing-tobs-deploy-a-full-observability-suite-for-kubernetes-in-two-minutes/) - installing prometheus and grafana and timescale from the CLI
 
 ### 2022-04-18
 
