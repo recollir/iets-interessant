@@ -2,6 +2,17 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2022-04-19
+
+- [The Configuration Complexity Curse](https://blog.cedriccharly.com/post/20191109-the-configuration-complexity-curse/) - cue instead of yaml
+- [CUE is an exciting configuration language](https://bitfieldconsulting.com/golang/cuelang-exciting) - short intro to CUE
+- [Docs for Developers](https://link.springer.com/book/10.1007/978-1-4842-7217-6) - An Engineer’s Field Guide to Technical Writing
+- [How to pair-program remotely and not lose the will to live](https://queenofdowntime.com/blog/remote-pair-programming) - pair program with neovim and the terminal
+- [Instant terminal sharing](https://tmate.io) - share terminal via tmux
+- []() -
+- []() -
+
+
 ### 2022-04-18
 
 - [CLI: Command Line Programming with Go](https://thenewstack.io/cli-command-line-programming-with-go/) - cli arguments in go
