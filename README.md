@@ -5,6 +5,7 @@
 ### 2022-04-18
 
 - [CLI: Command Line Programming with Go](https://thenewstack.io/cli-command-line-programming-with-go/) - cli arguments in go
+- [Git Worktrees Step-By-Step](https://infrequently.org/2021/07/worktrees-step-by-step) - using git worktree instead of git checkout
 
 ### 2022-04-16 
 
