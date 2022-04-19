@@ -12,6 +12,10 @@
 - [Moving from HEY to Fastmail](https://dev.to/borama/moving-from-hey-to-fastmail-phe) - replicating Hey with Fastmail
 - [Automate Your GitHub Profile README with Go and GitHub Actions](https://dev.to/charly3pins/automate-your-github-profile-readme-with-go-and-github-actions-2lmo) - automating GH profile readme
 - [Introducing Tobs: Deploy a full observability suite for Kubernetes in two minutes](https://www.timescale.com/blog/introducing-tobs-deploy-a-full-observability-suite-for-kubernetes-in-two-minutes/) - installing prometheus and grafana and timescale from the CLI
+- [kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - kubectx for operators
+- [Teach Yourself Git Without Learning a Single Git Command](https://itoshkov.github.io/git-tutorial) - understanding how git works with zip, diff, mv, ...
+- [Learning jq](https://earthly.dev/blog/jq-select/) - an intro to jq
+- [How I re-over-engineered my home network for privacy and security](https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/) - tinfoilhat for the homenetwork
 
 ### 2022-04-18
 
