@@ -2,6 +2,15 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2022-07-03
+
+- [A set of modern Grafana dashboards for Kubernetes](https://medium.com/@dotdc/a-set-of-modern-grafana-dashboards-for-kubernetes-4b989c72a4b2)
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ### 2022-06-28
 
 - [CPU limites in k8s](https://home.robusta.dev/blog/stop-using-cpu-limits/)
