@@ -2,6 +2,16 @@
 
 > Interesting random stuff I find on the Internet.
 
+### 2022-06-28
+
+- [CPU limites in k8s](https://home.robusta.dev/blog/stop-using-cpu-limits/)
+- [Vale prose linter](https://vale.sh)
+- [Using vale](https://passo.uno/posts/first-steps-with-the-vale-prose-linter/)
+- [Better shell history](https://github.com/cantino/mcfly)
+- [Using mcfly](https://www.linode.com/docs/guides/using-mcfly-to-search-bash-or-zsh-history/)
+- [Karabiner God Mode](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6)
+- [Learn Makefiles - With the tastiest examples](https://makefiletutorial.com)
+
 ### 2022-06-26
 
 - [kaleidoscope - ksdiff](https://blog.kaleidoscope.app/2022/05/09/ksdiff-tips/)
